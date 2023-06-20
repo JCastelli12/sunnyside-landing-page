@@ -62,7 +62,7 @@ body {
 
 main {
   position: relative;
-  padding: 3rem 1.5rem 7rem;
+  padding: 0 1.5rem 7rem;
   background: url(images/mobile/image-header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
